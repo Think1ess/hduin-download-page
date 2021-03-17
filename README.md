@@ -3,4 +3,4 @@
 
 ![hduin-download-pc](https://github.com/Think1ess/hduin-download-page/blob/master/hduin-download-pc.png)
 
-![hduin-download-mobile](.\hduin-download-mobile.jpg)
+![hduin-download-mobile](https://github.com/Think1ess/hduin-download-page/blob/master/hduin-download-mobile.jpg)
